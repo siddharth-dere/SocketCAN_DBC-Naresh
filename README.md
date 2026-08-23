@@ -1,4 +1,4 @@
-# AI-Assisted Automotive CAN Telemetry — SocketCAN Version B
+# Automotive CAN Telemetry — SocketCAN 
 
 This repository implements a complete virtual automotive CAN telemetry network on Linux. It uses a Vector-style DBC file, Linux SocketCAN, and the `vcan0` virtual CAN interface.
 
